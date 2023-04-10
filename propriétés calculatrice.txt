@@ -1,0 +1,8 @@
+ Calculatrice Responsable du calcul :
+
+   addition
+   produit
+   Division
+   Soustraction
+   Pourcentage
+ Calcul en virgule.
